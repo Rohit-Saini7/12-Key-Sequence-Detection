@@ -2,9 +2,9 @@
 
 Date: July 14, 2022
 
-# Eleventh challange of [JavaScript30](https://javascript30.com/)
+# Twelfth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/11-Custom-Video-Player/)
+This webpage tracks whichever keys you are pressing. To experience on your own visit [here](https://rohit-saini7.github.io/12-Key-Sequence-Detection/)
 
 ## What is JavaScript 30
 
